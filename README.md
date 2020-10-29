@@ -1,7 +1,7 @@
 # LayaBoxUseUnity
 
 #### 介绍
-LayaBox同意unity版本
+LayaBox通用unity版本
 
 #### 软件架构
 软件架构说明
